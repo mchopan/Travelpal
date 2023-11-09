@@ -6,6 +6,8 @@ const abcs = () => {
     <View>
       <Text>abcs</Text>
       <Text>abcs</Text>
+      <Text>abcs</Text>
+      <Text>abcs</Text>
     </View>
   )
 }
