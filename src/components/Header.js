@@ -20,7 +20,7 @@ const Header = () => {
 
     return (
         <View style={styles.header}>
-            <Text style={styles.headertext}>NissarPal</Text>
+            <Text style={styles.headertext}>NissarPalbranch</Text>
             <CustomButton name={'Logout'} width={100} padding={10} handlebuttonClick={handlebuttonClick} />
         </View>
     )
