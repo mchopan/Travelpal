@@ -5,14 +5,6 @@ const abcs = () => {
   return (
     <View>
       <Text>abcs</Text>
-      <Text>abcs</Text>
-
-      <Text>abcs</Text>
-      <Text>abcs</Text>
-
-
-
-
 
     </View>
   )
