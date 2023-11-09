@@ -9,6 +9,11 @@ const abcs = () => {
 
       <Text>abcs</Text>
       <Text>abcs</Text>
+
+
+
+
+
     </View>
   )
 }
